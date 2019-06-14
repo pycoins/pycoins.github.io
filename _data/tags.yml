@@ -1,5 +1,5 @@
 tag1:
-  name: Python基础
+  name: Python
 
-tag2:
-  name: Python爬虫
+# tag2:
+#   name: Python爬虫
