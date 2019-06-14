@@ -1,10 +1,10 @@
-permalink: /:year:month:day/:title
+permalink: /:year:month:day/:title.html
 url: #Your url here
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: Python and Coins
+description: 学习Python,并且赚钱
 google_verification: null
 
 
